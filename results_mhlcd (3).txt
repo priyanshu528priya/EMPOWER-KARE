@@ -1,0 +1,102 @@
+Results for mpt-zeroshot
+precision =  0.8728635566575187
+recall =  0.8728635566575187
+f1 =  0.8642965092950937
+Bleu_1: 0.182943
+Bleu_2: 0.104809
+Bleu_3: 0.066365
+Bleu_4: 0.042014
+METEOR: 0.099164
+ROUGE_L: 0.159645
+CIDEr: 0.219726
+SkipThoughtsCosineSimilarity: 0.655896
+EmbeddingAverageCosineSimilarity: 0.875064
+EmbeddingAverageCosineSimilairty: 0.875064
+VectorExtremaCosineSimilarity: 0.454933
+GreedyMatchingScore: 0.753153
+###############################################################
+Results for mpt-oneshot
+precision =  0.8668420527662549
+recall =  0.8668420527662549
+f1 =  0.8610507359310072
+Bleu_1: 0.172043
+Bleu_2: 0.097535
+Bleu_3: 0.063190
+Bleu_4: 0.042475
+METEOR: 0.096417
+ROUGE_L: 0.140837
+CIDEr: 0.187790
+SkipThoughtsCosineSimilarity: 0.638227
+EmbeddingAverageCosineSimilarity: 0.868905
+EmbeddingAverageCosineSimilairty: 0.868905
+VectorExtremaCosineSimilarity: 0.444667
+GreedyMatchingScore: 0.747967
+###############################################################
+Results for mpt-twoshot
+precision =  0.861463627036737
+recall =  0.861463627036737
+f1 =  0.8579670513162807
+Bleu_1: 0.171337
+Bleu_2: 0.094343
+Bleu_3: 0.059969
+Bleu_4: 0.041130
+METEOR: 0.094327
+ROUGE_L: 0.139170
+CIDEr: 0.191524
+SkipThoughtsCosineSimilarity: 0.675197
+EmbeddingAverageCosineSimilarity: 0.870282
+EmbeddingAverageCosineSimilairty: 0.870282
+VectorExtremaCosineSimilarity: 0.439460
+GreedyMatchingScore: 0.745758
+###############################################################
+Results for alpaca-zeroshot
+precision =  0.8604233763655837
+recall =  0.8604233763655837
+f1 =  0.8587929156361794
+Bleu_1: 0.171298
+Bleu_2: 0.091480
+Bleu_3: 0.057759
+Bleu_4: 0.037617
+METEOR: 0.105977
+ROUGE_L: 0.143334
+CIDEr: 0.151140
+SkipThoughtsCosineSimilarity: 0.648378
+EmbeddingAverageCosineSimilarity: 0.869053
+EmbeddingAverageCosineSimilairty: 0.869053
+VectorExtremaCosineSimilarity: 0.438665
+GreedyMatchingScore: 0.748696
+###############################################################
+Results for alpaca-oneshot
+precision =  0.8559731543064117
+recall =  0.8559731543064117
+f1 =  0.8547155163726028
+Bleu_1: 0.159061
+Bleu_2: 0.084536
+Bleu_3: 0.053026
+Bleu_4: 0.035533
+METEOR: 0.091315
+ROUGE_L: 0.131385
+CIDEr: 0.169607
+SkipThoughtsCosineSimilarity: 0.607224
+EmbeddingAverageCosineSimilarity: 0.832763
+EmbeddingAverageCosineSimilairty: 0.832763
+VectorExtremaCosineSimilarity: 0.420231
+GreedyMatchingScore: 0.737362
+###############################################################
+Results for alpaca-twoshot
+precision =  0.8425898393806146
+recall =  0.8425898393806146
+f1 =  0.8434296438888628
+Bleu_1: 0.136343
+Bleu_2: 0.058973
+Bleu_3: 0.035962
+Bleu_4: 0.024122
+METEOR: 0.073375
+ROUGE_L: 0.110454
+CIDEr: 0.104065
+SkipThoughtsCosineSimilarity: 0.610333
+EmbeddingAverageCosineSimilarity: 0.835454
+EmbeddingAverageCosineSimilairty: 0.835454
+VectorExtremaCosineSimilarity: 0.404484
+GreedyMatchingScore: 0.731141
+###############################################################
