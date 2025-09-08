@@ -20,11 +20,11 @@ The dataset is available in the "EMPOWER-KARE/dataset" folder as 'KARE-Sample.js
 
 * knowledge: Knowledge associated with the dialogue.
 
-## Dataset Request Access
+### Dataset Request Access
 
 To request full data access, fill out the agreement form [linked here](https://www.iitp.ac.in/~ai-nlp-ml/resources.html).
 
-## Key Highlights of the KARE Dataset
+### Key Highlights of the KARE Dataset
 
 - **Synthetic Data**  
   The dataset is entirely synthetic and anonymized. While it draws inspiration from real-world scenarios, it is not extracted directly from real-life conversations.
@@ -35,12 +35,11 @@ To request full data access, fill out the agreement form [linked here](https://w
 - **Anonymization Assurance**  
   The entire dataset is anonymized following the same principles applied to the sample dataset provided here.
 
-  ## EMPOWER Framework ##
+## EMPOWER Framework ##
 
-  The code for the EMPOWER model is available in the "EMPOWER-KARE/EMPOWER-MODEL".
+The code for the EMPOWER model is available in the "EMPOWER-KARE/EMPOWER-MODEL".
 
-  ## Citations
-
+## Citations
 If you are using this work or the dataset, cite the paper.
 
 @article{priya2025empower,
