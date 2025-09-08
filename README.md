@@ -12,9 +12,9 @@ The dataset is available in the dataset folder as 'KARE-Sample.json'. The datase
 
 * utterance_no: denotes the utterance number in an ongoing conversation.	
 
-* author_role: can take either of the two roles: agent/victim.
-	** agent - the conversational agent acting as counselor to help the victim.
-	** victim - user who is victim of some crime.	
+* author_role: can take either of the two roles: bot/user.
+	** bot - the conversational agent acting as counselor to help the victim.
+	** user - user who is victim of some crime.	
 
 * utterance: the text stated by agent/victim.
 
