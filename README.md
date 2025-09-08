@@ -6,19 +6,23 @@ The folder EMPOWER-KARE contains the dataset (dataset/KARE-Sample.json folder) a
 
 ## KARE Dataset ##
 
-The dataset is available in the dataset folder as 'KARE-Sample.json'. The dataset contains the following information:
+The dataset is available in the "EMPOWER-KARE/dataset" folder as 'KARE-Sample.json'. The dataset contains the following information:
 
-* dialogue_id: denotes an unique conversation number.
+* dialogue_id: denotes a unique conversation number.
 
 * utterance_no: denotes the utterance number in an ongoing conversation.	
 
 * author_role: can take either of the two roles: bot/user.
-	** bot - the conversational agent acting as counselor to help the victim.
+	** bot - the conversational agent acting as a counselor to help the victim.
 	** user - user who is victim of some crime.	
 
-* utterance: the text stated by agent/victim.
+* utterance: the text stated by the agent/victim.
 
 * knowledge: Knowledge associated with the dialogue.
+
+## Dataset Request Access
+
+To request full data access, fill out the agreement form [linked here](https://www.iitp.ac.in/~ai-nlp-ml/resources.html).
 
 ## Key Highlights of the KARE Dataset
 
@@ -30,4 +34,21 @@ The dataset is available in the dataset folder as 'KARE-Sample.json'. The datase
 
 - **Anonymization Assurance**  
   The entire dataset is anonymized following the same principles applied to the sample dataset provided here.
+
+  ## EMPOWER Framework ##
+
+  The code for the EMPOWER model is available in the "EMPOWER-KARE/EMPOWER-MODEL".
+
+  ## Citations
+
+If you are using this work or the dataset, cite the paper.
+
+@article{priya2025empower,
+  title={EMPOWER-KARE: Deep Prompt Learning for Knowledge-aware Response Generation in Clinical Counseling and Legal Support Conversations},
+  author={Priya, Priyanshu and Tripathi, Armita Mani and Varshney, Deeksha and Firdaus, Mauajama and Ekbal, Asif},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+
 
