@@ -1,4 +1,6 @@
 # EMPOWER-KARE
+This repository contains the dataset and code for our paper titled [EMPOWER-KARE: Deep Prompt Learning for Knowledge-aware Response Generation in Clinical Counseling and Legal Support Conversations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10910093)
+
 This repository contains sample dataset and code for the submission.
 
 The folder EMPOWER-KARE contains the dataset (dataset/KARE-Sample.json folder) and code for the EMPOWER framework.
